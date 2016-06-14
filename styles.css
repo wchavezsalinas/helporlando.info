@@ -556,10 +556,12 @@ a img{
   font-weight: 400;
   letter-spacing: .04em;
   line-height: 1;
-  padding-left:5%;
   padding-bottom:3%;
 }
 
 .mdl-mega-footer--social-btn-fb {
   background-image: url('images/face.svg')
+}
+.twitter-tweet {
+  margin: 0 auto;
 }
