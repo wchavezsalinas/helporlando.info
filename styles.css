@@ -565,3 +565,9 @@ a img{
 .twitter-tweet {
   margin: 0 auto;
 }
+
+.reachDescript {
+  margin-left:10%;
+  margin-right:10%;
+  padding-top:2%;
+}
